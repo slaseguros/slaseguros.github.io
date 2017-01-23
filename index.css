@@ -22,11 +22,14 @@ h1{
 }
 a{ 
     font-family: monospace;
-    color: green;
+    color: #F4645F;
 }
 
 #logo-sinexiones{
     height: 1rem;
     margin-bottom: -0.2rem;
+}
+#footer{
+    margin-top: 100px;
 }
 
